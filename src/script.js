@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>If</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Bread</div>
 
 <div class="player">
 <div class="topRow">
@@ -49,15 +49,13 @@ html:`
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/5.png" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/5.png" class="filmPic">
 
 </div>
 </div>
@@ -107,18 +105,21 @@ html:`
 
 <div class="letterContent">
 
-<span class="signal">TRANSMISSION START</span><br><br>
+<span class="signal">TRANSMISSION START</span><br>
 
-TRANSMISSION START
+My Darling Eve,
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+I wanted to take a moment to write down what my heart feels whenever I look at you. These past few days have been heavy, wrapped in burdens that felt too massive to carry alone—until I found my way back to your side.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+Just being near you changes the cadence of my world. You possess a rare, quiet magic that softens my edges and gently lifts the weight from my shoulders. Yet, what moves me most deeply is the beautiful choice you make every single day. Out of everyone in this world, you continuously choose me to be your partner, your confidant, and your favorite man. I promise you, I will never hold that gift lightly.
 
-But like late night radio waves that stay playing even when the world sleeps.
+Thank you for being my sanctuary, my quiet peace, and my greatest joy. I love you far beyond the boundaries of words.
 
-END SIGNAL
+Forever yours,
+
+Varquez Levonian
+
+
 <span class="signal">END SIGNAL</span>
 
 </div>
